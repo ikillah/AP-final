@@ -1,5 +1,5 @@
 # Advanced Programming Final Project 
-# Topic: Human Pose Estimation using OpenCV
+# Topic: Human pose classification/estimation
 
 Group Members:<br />
 Nurlan Sultan<br />
@@ -7,9 +7,9 @@ Adilkhan Nurmiyashev<br />
 Byegarys Byekbolat<br />
 Group: IT-2202
 
-# Description:
+# Introduction:
 
-The Human Pose Estimation code utilizing OpenPose MobileNet in Python with OpenCV enables accurate identification and tracking of key human body joints, providing valuable insights into body posture and movement. OpenPose, a popular pose estimation library, is integrated with the lightweight MobileNet architecture to achieve real-time performance on various devices.
+Human pose estimation is a crucial task in computer vision that involves predicting the spatial positions of body joints in an image or video. This technology plays a pivotal role in various applications, including augmented reality, gesture recognition, sports analysis, and human-computer interaction.
 
 # Key Features:
 
