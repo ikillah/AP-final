@@ -2,9 +2,9 @@
 # Topic: Human pose classification/estimation
 
 Group Members:<br />
-Nurlan Sultan<br />
-Adilkhan Nurmiyashev<br />
-Byegarys Byekbolat<br />
+- Nurlan Sultan<br />
+- Adilkhan Nurmiyashev<br />
+- Byegarys Byekbolat<br />
 Group: IT-2202
 
 # Introduction:
