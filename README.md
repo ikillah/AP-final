@@ -1,10 +1,11 @@
 # Advanced Programming Final Project 
 # Topic: Human pose classification/estimation
 
-Group Members:<br />
-- Nurlan Sultan<br />
-- Adilkhan Nurmiyashev<br />
-- Byegarys Byekbolat<br />
+Group Members:
+- Nurlan Sultan
+- Adilkhan Nurmiyashev
+- Byegarys Byekbolat
+
 Group: IT-2202
 
 # Introduction:
@@ -68,3 +69,6 @@ Dataset that we collected: https://drive.google.com/drive/folders/1oMNxLk2BxM7Vt
 
 Images for testing the model: https://drive.google.com/drive/folders/1d_IFMnZIn72u7tpr6kn7ZUJc6Cq9t3Em?usp=sharing
 
+# Video
+
+[![Video](https://img.youtube.com/vi/SbByNUsxohc/0.jpg)](https://www.youtube.com/watch?v=SbByNUsxohc-Y "Advanced Programming Final Project (Human Pose Estimation using OpenCV)")
