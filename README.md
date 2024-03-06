@@ -1,5 +1,6 @@
 # Advanced Programming Final Project 
-Topic: Human Pose Estimation using OpenCV
+# Topic: Human Pose Estimation using OpenCV
+
 Group Members:<br />
 Nurlan Sultan<br />
 Adilkhan Nurmiyashev<br />
